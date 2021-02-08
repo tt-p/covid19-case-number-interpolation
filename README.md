@@ -11,9 +11,9 @@ And graphical representation using JavaFx.
 1.	Using only the case numbers of days 
 March 12, March 16, March 20, March 23, March 26, March 29, 
 April 3, April 8, April 13, April 18, April 20, April 21:
-	1.1.	Determine the number of cases on April 15 using Direct Method Interpolation.
-	1.2.	Determine the number of cases on April 15 using Lagrange Interpolation Polynomial.
-	1.3.	Determine the number of cases on April 15 using Newton’s Divided Difference Interpolation.
+	i.	Determine the number of cases on April 15 using Direct Method Interpolation.
+	ii.	Determine the number of cases on April 15 using Lagrange Interpolation Polynomial.
+	iii.	Determine the number of cases on April 15 using Newton’s Divided Difference Interpolation.
 2.	Write the codes for the implementations.
 3.	Plot the calculations.
 
