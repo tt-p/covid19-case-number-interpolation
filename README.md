@@ -19,7 +19,7 @@ April 3, April 8, April 13, April 18, April 20, April 21:
 
 ## Report
 
-![report.pdf](report.pdf)
+[Report](report.pdf)
 
 ### Source:
 
